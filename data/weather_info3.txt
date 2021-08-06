@@ -1,0 +1,19 @@
+Aminu road-zaria-kaduna-nigeria
+
+
+
+ Here's what the weather looks like today
+            
+Weather description: overcast clouds            
+Actual temperature:  294.06            
+Temp. Feels like:    294.69            
+Minimum Temperature: 294.06            
+Maximum Temperature: 294.06            
+Air Pressure:        1016            
+Humidity:            95            
+Sea level:           1016            
+Ground level:        943            
+Visibility:          10000            
+Wind Speed:          3.85            
+Wind temperature:    231            
+Level of Cloudiness: 100
